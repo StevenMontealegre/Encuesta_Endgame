@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="MarvelHeroes">
+        <item> Spiderman </item>
+        <item> Ironman </item>
+        <item> Capitán América </item>
+        <item> Capitana Marvel </item>
+        <item> Hulk </item>
+        <item> Viuda negra </item>
+        <item> Thor </item>
+        <item> Doctor Strange </item>
+
+
+    </string-array>
+
+
+</resources>

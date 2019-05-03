@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="SegmentoPersonas">
+        <item> Todo el público </item>
+        <item> Mújeres adultas </item>
+        <item> Hombres adultos </item>
+        <item> Mújeres adolescentes </item>
+        <item> Hombres adolescentes </item>
+        <item> Niños </item>
+
+    </string-array>
+
+
+</resources>
